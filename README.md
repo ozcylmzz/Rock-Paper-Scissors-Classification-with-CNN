@@ -13,8 +13,11 @@ Comparison of model.h5 and model.tflite
 ![8](https://user-images.githubusercontent.com/34898893/89129204-1fe66600-d504-11ea-917c-2db93e249e82.PNG)
 
 Project will be developed on the android platform. So we decided to use SQLite.  3 tables in database will be stored:
+
 1 USERS: Users information will be stored.
+
 2 SCORES: Users points table.
+
 3 GAMES: Users have previously played games is the table that holds the history.
 
 ![7](https://user-images.githubusercontent.com/34898893/89129209-2ecd1880-d504-11ea-9a72-47726f22f6a6.PNG)
