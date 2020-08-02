@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Taş Kağıt Makas Oyunu</string>
+    <string name="kamera_cevir">Kamerayı Çevir</string>
+    <string name="hamleyi_belirle">Hamleyi Belirle</string>
+    <string name="app_name2">Login Register</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">İsim</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_move">Hamle</string>
+    <string name="hint_rmove">Rastgele hamle</string>
+    <string name="hint_result">Sonuç</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_confirm_password">Şifreyi doğrula</string>
+    <string name="text_login">Giriş yap</string>
+    <string name="text_register">Kayıt ol</string>
+    <string name="error_message_name">Geçerli bir isim girin</string>
+    <string name="error_message_email">Geçerli bir email girin</string>
+    <string name="error_message_age">Yaşınızı girin</string>
+    <string name="error_message_password">Şifrenizi girin</string>
+    <string name="success_message">Başarıyla kayıt oldunuz</string>
+    <string name="text_not_member">Hesabınız yok mu? Hemen oluşturun</string>
+    <string name="text_already_member">Zaten üye misiniz? Giriş yapın</string>
+    <string name="error_email_exists">Bu email adresi zaten kayıtlı</string>
+    <string name="error_name_exists">Bu isim zaten kayıtlı</string>
+    <string name="error_password_match">Şifreler eşleşmiyor</string>
+    <string name="error_valid_email_password">Yanlış kullanıcı adı yada şifre</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="text_hello">Merhaba</string>
+    <string name="text_title">Kullanıcı oyun geçmişleri</string>
+    <string name="title_activity_record">RecordActivity</string>
+</resources>
